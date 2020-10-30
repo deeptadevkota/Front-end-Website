@@ -1,0 +1,172 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat";
+    font-weight: 400;
+  }
+  
+  p {
+    color: black;
+  }
+  
+  /* Headings-Section */
+  
+  .big-heading {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+  
+  .section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  .coloredNav
+  {
+      background-color: #42dee1;
+  }
+  /* Containers section */
+  
+  .container-fluid{
+    padding: 7% 15%;
+  }
+  
+  /* blue and white sections */
+  
+  .colored-section {
+    background-color:#40a8c4;
+    color: #fff;
+  }
+  
+  .white-section {
+    background-color: #fff;
+  }
+  
+  /* navigation bar */
+  
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: 'Neucha', cursive;
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: 400;
+  }
+  
+  /* Buttons */
+  
+  .download-button {
+    margin: 5% 3% 5% 0;
+  }
+  
+  /* Title Section */
+  
+  #title {
+    background-color:#3fc5f0;
+    color: #fff;
+    text-align: left;
+  }
+  
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+  
+  /* Title Image */
+  
+  .title-image {
+    width: 80%;
+    right: 30%;
+  }
+  
+  #aboutUs{
+      padding: 4%;
+      line-height: 1.5rem;
+  }
+  /* Features Section */
+  
+  #features {
+    position: relative;
+    background-color: #a2d5f2;
+    color:black;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-box {
+    padding: 4.5%;
+  }
+  
+  .icon {
+    color: #07689f;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: #0f3460;
+  }
+
+  /* Pricing Section */
+  
+  #pricing {
+    padding: 100px;
+  }
+  
+  .price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .pricing-column {
+    padding: 3% 2%;
+  }
+  
+  /* Testimonial Section */
+  
+  #testimonials {
+    background-color:#a2d5f2;
+    color:black;
+  }
+  
+  .testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+  
+  
+  
+  /* Footer Section */
+  
+  
+  .social-icon {
+    margin: 20px 10px;
+  }
+  @media (max-width: 1028px) {
+  
+    #title {
+      text-align: center;
+    }
+  }
+  
